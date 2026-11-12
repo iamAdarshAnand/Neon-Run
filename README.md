@@ -1,6 +1,21 @@
-# NEON RUN 🏃‍♂️⚡
+# NEON RUN 🏃‍♂️⚡ — Lightweight Offline Android Endless Runner
+
+[![Android APK](https://github.com/iamAdarshAnand/Neon-Run/actions/workflows/android-apk.yml/badge.svg)](https://github.com/iamAdarshAnand/Neon-Run/actions/workflows/android-apk.yml)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84)
+![Offline](https://img.shields.io/badge/play-offline-00c2ff)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+**Keywords:** Android endless runner game, offline running game, lightweight Android game, HTML5 Canvas game, Java WebView Android game, open-source mobile game, swipe runner, three-lane obstacle runner, neon arcade game.
+
+
 
 **NEON RUN** is an original, lightweight, offline three-lane endless runner for Android, inspired by the *genre* of Temple Run and Subway Surfers. It does not use their artwork, branding, or game assets.
+
+## About NEON RUN
+
+NEON RUN is a free, open-source Android arcade running game built by **Adarsh Anand**. It combines a three-lane endless-running mechanic with swipe controls, obstacles, collectibles, and increasing speed. The game works without internet access or third-party game assets.
+
+**Explore:** [Source code](https://github.com/iamAdarshAnand/Neon-Run) · [Android APK build workflow](https://github.com/iamAdarshAnand/Neon-Run/actions/workflows/android-apk.yml) · [Report an issue](https://github.com/iamAdarshAnand/Neon-Run/issues)
 
 ## Features
 - 🎮 Three-lane obstacle dodging
